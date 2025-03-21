@@ -9,6 +9,7 @@ body {
 }
 div{
 	width:10px;
+	background-color:rgb(46, 204, 113);
 }
 .book {
     /* Add styles as needed */
