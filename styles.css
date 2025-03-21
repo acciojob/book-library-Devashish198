@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+.bdy{
+	background-color:#f8f8f8;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	padding:10px;
+}
+.book-library{
+		background-color:#ffffff;
+}
+.book{
+	color:#777777;
+	
+}
