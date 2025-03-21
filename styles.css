@@ -3,7 +3,12 @@ body {
 }
 .book-library {
     background-color: #ffffff;
+	box-shadow:20px;
+	
     /* Add more styles as needed */
+}
+div{
+	width:10px;
 }
 .book {
     /* Add styles as needed */
